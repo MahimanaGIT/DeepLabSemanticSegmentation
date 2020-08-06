@@ -1,4 +1,4 @@
-# DeepLabSemanticSegmentation
+# Deeplab Semantic Segmentation
 
 This tutorial is a simple implementation from [Deep Lab](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
