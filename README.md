@@ -6,6 +6,8 @@ This tutorial is a simple implementation from [Deep Lab](https://github.com/tens
 1. Tensorflow 1.15
 2. Python 3
 
+<img src="https://github.com/MahimanaGIT/DeepLabSemanticSegmentation/blob/master/images/semantic.png" />
+
 Clone the repository for object_detection_api in any location you feel comfortable: [Tensorflow Model](https://github.com/tensorflow/models) from tensorflow
 
 The repository should be of the following for:
